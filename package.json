@@ -1,1 +1,7 @@
-
+{
+  "name": "lab-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building project... DONE!'"
+  }
+}
